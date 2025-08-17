@@ -1,5 +1,5 @@
--- Rohan Rajesh Kalbag --
--- Roll Number: 20D170033, last digit is 3 --
+-- Monika Khond --
+-- digit used is 3 --
 
 --16 bit brent kung adder of Assignment 4--
 
